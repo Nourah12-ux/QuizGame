@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizGameProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Leaderboard</string>
+    <string name="title_notifications">MyProfile</string>
+    <string name="preference_file_key">com.example.quizgameproject.PREFERENCE_FILE_KEY</string>
+
+</resources>
